@@ -1,8 +1,8 @@
 <img align="center" alt="Coding" width="800"  src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
 <h1 align="center">Hi 👋, I'm Arsal Uddin</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=arsaluddin&label=Profile%20views&color=0e75b6&style=flat" alt="arsaluddin" /> </p>
 
 - 🌱 I’m currently learning **React js ,Node js**
 
@@ -27,3 +27,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arsaluddin&show_icons=true&locale=en" alt="arsaluddin" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arsaluddin&" alt="arsaluddin" /></p>
+
