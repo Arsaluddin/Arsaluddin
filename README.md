@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/arsal uddin" target="blank"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
+<a href="https://www.linkedin.com/in/arsal-uddin-297134217/" target="blank"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
 <a href="https://www.instagram.com/arsal302" target="blank"><img src="https://skillicons.dev/icons?i=instagram"/></a>
 <a href="https://twitter.com/arsaluddin8" target="blank"><img src="https://skillicons.dev/icons?i=twitter"/></a>
 </p>
