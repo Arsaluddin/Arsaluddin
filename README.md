@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arsaluddin&label=Profile%20views&color=0e75b6&style=flat" alt="arsaluddin" /> </p>
 
-- 🌱 I’m currently learning **React js ,Node js**
+- 🌱 I’m currently learning **Next.js , React js ,Node js**
 
 - 👯 I’m looking to collaborate on **open source projects**
 
@@ -28,6 +28,7 @@
    <img src="https://skillicons.dev/icons?i=bootstrap"/>
    <img src="https://skillicons.dev/icons?i=js"/>
    <img src="https://skillicons.dev/icons?i=react"/> 
+   <img src="https://skillicons.dev/icons?i=next"/>
   <img src="https://skillicons.dev/icons?i=nodejs"/>
   <img src="https://skillicons.dev/icons?i=express"/>
   <img src="https://skillicons.dev/icons?i=java"/>
